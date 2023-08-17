@@ -11,7 +11,7 @@ ui <- fillPage(
                     "Home",
                       mainPanel(
                         p("Welcome to the NASS File Converter!"),
-                        p("Currently the app only coverts CSV to Blaise files, however we hope to add funcitonality in the future."),
+                        p("Currently the app only coverts CSV to Blaise files, however we hope to add functionality in the future."),
                         p("Please contact Hunter Blum (hunter.blum@usda.gov) with any errors or suggestions for improvement.")
                     )
                   ),

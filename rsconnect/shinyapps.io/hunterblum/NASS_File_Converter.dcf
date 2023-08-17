@@ -1,0 +1,12 @@
+name: NASS_File_Converter
+title: NASS_File_Converter
+username: hunterblum
+account: hunterblum
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9620234
+bundleId: 7576526
+url: https://hunterblum.shinyapps.io/NASS_File_Converter/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
